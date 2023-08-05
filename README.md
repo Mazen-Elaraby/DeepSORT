@@ -74,3 +74,15 @@ By using simple nearest neighbor queries without additional metric learning, suc
 <p align="center">
   <img src="https://github.com/Mazen-Elaraby/DeepSORT/assets/99294980/5577ffc7-59bf-44c1-9c30-0a271ce3721b" />
 </p>
+
+## Output 
+1):
+
+https://github.com/Mazen-Elaraby/DeepSORT/assets/99294980/b38f15d1-2b79-46c1-99c5-999e1d6686fe
+
+2):
+
+https://github.com/Mazen-Elaraby/DeepSORT/assets/99294980/cd9ce1e7-bfeb-4c75-b382-a264215bea7c
+
+
+
