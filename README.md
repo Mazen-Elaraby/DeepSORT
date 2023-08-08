@@ -1,6 +1,14 @@
 # DeepSORT
 An Object Tracking Algorithm based on the DeepSORT algorithm &amp; a YOLOv8 Detector
 
+## Dependencies
+
+- opencv-python
+- Pytorch
+- Supervision
+- YOLOv8m model from Ultralytics
+- deep_sort_realtime Library 
+
 ## introduction
 
 The leading approach in multiple object tracking is tracking-by-detection, which utilizes object detection techniques. Typically, object trajectories are determined through global optimization problems that process entire video batches at once. Various frameworks, such as flow network formulations and probabilistic graphical models, have been adopted for this purpose. However, these methods are not suitable for online scenarios where the identification of targets is required at each time step. 
